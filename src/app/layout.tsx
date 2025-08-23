@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${manrope.variable} ${imFellDW.variable}  antialiased `}
+        className={`${manrope.variable} ${imFellDW.variable}  antialiased select-none `}
       >
         {children}
       </body>

@@ -3,7 +3,7 @@ import PictureFrame from "../PictureFrame/PictureFrame";
 
 export default function PicturesStack() {
   return (
-    <div className="flex flex-col lg:flex-row items-center justify-center gap-8 sm:gap-12 lg:gap-24 xl:gap-48 w-full">
+    <div className="flex flex-col lg:flex-row items-center justify-center gap-8 sm:gap-12 lg:gap-24 xl:gap-48 w-full font-manrope">
       {/* First Column */}
       <div className="flex flex-col items-center justify-center gap-8 sm:gap-12 lg:gap-24 lg:mt-7">
         <PictureFrame
