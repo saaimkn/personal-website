@@ -15,7 +15,7 @@ const imFellDW = IM_Fell_DW_Pica({
 });
 export const metadata: Metadata = {
   title: "Saaim Khan",
-  description: "my story, my work, and my journey",
+  description: "a worthwhile 3 min read",
 };
 
 export default function RootLayout({
