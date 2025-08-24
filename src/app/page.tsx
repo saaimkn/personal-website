@@ -23,7 +23,7 @@ export default function Home() {
       <h1 className="text-3xl sm:text-4xl lg:text-6xl font-im-fell-dw text-center mb-8 sm:mb-14">
         saaim khan
       </h1>
-      <p className="text-xs md:text-lg mb-2">a worthwhile 3 min read ... i promise</p>
+      <p className="text-xs md:text-lg mb-2 font-manrope">a worthwhile 3 min read ... i promise</p>
 
       <IntroText sentences={sentences} />
 
