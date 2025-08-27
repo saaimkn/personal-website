@@ -9,7 +9,7 @@ export default function Home() {
     "hey, i’m saaim (pronounced like time, but with an s)",
     "i recently moved from the uk to san francisco with my co founder to build our company ...",
     "with $1300",
-    "not the smartest idea lol. i’m now facing the consequences: living off soylent, crashing on friends’ couches, and skating the edge of homelessness ... i’ve never been more stressed. yet somehow, i’ve never felt more bullish.",
+    "not the smartest idea lol. i’m now facing the consequences: living off soylent, crashing on friends’ couches, and skating the edge of homelessness ... i’ve never been more stressed. yet somehow, i’ve never felt more bullish",
     "here’s the couch i’m crashing on and the boxes of soylent we’re surviving on",
     // ///////
     "all things considered, life is pretty great rn and i’m having a ton of fun",
