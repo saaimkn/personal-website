@@ -193,7 +193,6 @@ export default function IntroText({ sentences }: IntroTextProps) {
     "- 17 - cooking and baking - thought i would become a chef lol (i can't wait to host dinners in sf eventually)",
     "- 18 - joined unilever as an analyst in a <1% acceptance apprenticeship",
     "- 20 - employee #1 at an education startup - left after a month as i had a different vision to the founders. soon after, i joined an early stage b2b startup called shape - this was amazing - our ceo gave me tons of freedom and agency - i worked on hiring, sales, partnerships, and more",
-    "-  21 - moved to sf and started spidey with jaivin. we were turning learning into a game, bringing the worlds best gaming mechanics to education. we gave up far too quickly and this still haunts me. after sf, i went back to the uk and joined a legal tech startup. i very quickly got fired for the first time ever, because of a disagreement with my manager. that was rough and ultimately i came to the conclusion: i'm unemployable",
     "- 22 - back in sf :)",
   ];
 
